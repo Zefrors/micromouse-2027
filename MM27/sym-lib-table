@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "WeAct-BlackPillv3") (type "KiCad") (uri "${KIPRJMOD}/../Libs/STM.mini/WeAct-BlackPillv3.kicad_sym") (options "") (descr ""))
+	(lib (name "MM27_Custom_sym") (type "KiCad") (uri "${KIPRJMOD}/../Libs/MM27_Custom_sym.kicad_sym") (options "") (descr ""))
+)
